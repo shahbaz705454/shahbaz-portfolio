@@ -401,7 +401,7 @@ span {
 }
 
 .portfolio-container .project-heading{
-    color: #0efs
+    display: block;
 ;
 }
 
@@ -765,7 +765,7 @@ span {
 
     .about img {
         width: 70vw;
-        height: 60vw;
+        height: 50vw;
         margin-top: 4rem;
 
     }
