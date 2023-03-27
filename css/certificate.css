@@ -58,6 +58,9 @@ header h1 {
 
 .service-container img{
     width: 100%;
+    border-radius: 5%;
+
+    
 }
 
 
@@ -77,6 +80,7 @@ header h1 {
     gap: 2rem;
     margin-left: 3rem;
     margin-right: 3rem;
+    color: #fff;
 
 }
 
@@ -103,6 +107,7 @@ header h1 {
 
 .service-box h3 {
     font-size: 2.6rem;
+    margin-top: 1rem;
 }
 
 .service-box p {
